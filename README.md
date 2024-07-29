@@ -5,7 +5,7 @@
 <a href="https://www.researchgate.net/profile/Jehoram-Mwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/ResearchGate.png" alt="Jehoram | Researchgate" title="Jehoram | ResearchGate"></a>
 <a href="https://medium.com/mwilajehoram" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Medium.png" alt="Jehoram | Medium" title="Jehoram | Medium"></a>
 <a href="https://independent.academia.edu/JehoramM" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Academia.png" alt="Jehoram Mwila | Academia" title="Jehoram Mwila | Academia Edu"></a>
-<a href="https://X.com/JehoramMwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/X.png" alt="Jehoram | X" title="Jehoram | X"></a>
+<a href="https://X.com/JehoramMwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/X.png" alt="Jehoram | X" title="Jehoram | X"></a><br/>
 
 <br/>
 
