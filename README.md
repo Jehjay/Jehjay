@@ -1,7 +1,7 @@
 ## Jehoram Mwila
 <br/>
 
-<a href="https://www.linkedin.com/in/jehoram-m-1b1772124" target="_blank"><img align="left" width="22px" scr="[https://github.com/Jehjay/images-to-3D/blob/master/LinkedIn.png]" alt="Jehoram Mwila | LinkedIn" title="Jehoram Mwila | LinkedIn"></a>
+<a href="https://www.linkedin.com/in/jehoram-m-1b1772124" target="_blank"><img align="left" width="22px" scr="https://github.com/Jehjay/images-to-3D/blob/master/LinkedIn.png" alt="Jehoram Mwila | LinkedIn" title="Jehoram Mwila | LinkedIn"></a>
 <a href="https://www.researchgate.net/profile/Jehoram-Mwila" target="_blank"><img align="left" width="22px" scr="https://github.com/Jehjay/images-to-3D/blob/master/ResearchGate.png" alt="Jehoram Mwila | Researchgate" title="Jehoram Mwila | ResearchGate"></a>
 <a href="https://medium.com/mwilajehoram" target="_blank"><img align="left" width="22px" scr="https://github.com/Jehjay/images-to-3D/blob/master/Medium.png" alt="Jehoram Mwila | Medium" title="Jehoram Mwila | Medium"></a>
 <a href="https://independent.academia.edu/JehoramM" target="_blank"><img align="left" width="22px" scr="https://github.com/Jehjay/images-to-3D/blob/master/Academia.png" alt="Jehoram Mwila | Academia" title="Jehoram Mwila | Academia Edu"></a>
@@ -24,12 +24,12 @@ I am conscientious, organised, and articulate, with vast experience working in a
 <h2> Experience </h2>
 	<ul>
 	<li><b> April 2020 - present </b> : running <i>JM consultancy</i>, a Technology consultancy and Innovation Hub providing professional technical consulting and 		ethical digital transformation solutions. </li>
-	<li><b> June 2019 - March 2020 </b> : Data Engineer | Full stack Developer at eftax Co., Ltd <a href="https://eftax.co.jp/en/" target="_blank"><img height="2em"
+	<li><b> June 2019 - March 2020 </b> : Data Engineer | Full stack Developer at eftax Co., Ltd <a href="https://eftax.co.jp/en/" target="_blank"><img height="auto"
 	width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/eftax.jpeg" alt="eftax Co., Ltd"  title="eftax Co., Ltd"></a></li>	
-	<li><b> June 2019 to March 2020 </b> : Data Science Instructor at Scribble Osaka Lab <a href="https://www.inno.go.jp/network/2020/all/22/" target="_blank"><img 	height="2em" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Scribble_Osaka_Lab.jpeg" alt="Scribble Osaka Lab" title="Scribble Osaka Lab"></a></li>
-	<li><b> October 2017 to September 2019 </b> : Researcher, MSc. Information Systems in Hiraishi Lab at <a href="https://www.kic.ac.jp/eng/" target="_blank"><img 	height="2em" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of 			Computing"></a><br>
+	<li><b> June 2019 to March 2020 </b> : Data Science Instructor at Scribble Osaka Lab <a href="https://www.inno.go.jp/network/2020/all/22/" target="_blank"><img 	height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Scribble_Osaka_Lab.jpeg" alt="Scribble Osaka Lab" title="Scribble Osaka Lab"></a></li>
+	<li><b> October 2017 to September 2019 </b> : Researcher, MSc. Information Systems in Hiraishi Lab at <a href="https://www.kic.ac.jp/eng/" target="_blank"><img 	height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of 			Computing"></a><br>
 	<strong> Research Topic </strong>: <em> e-commerce, chatbot, recommender systems, 3D, Augmented Virtuality. </em></br></li>
-	<li><b> March 2012 to September 2016 </b> : Bioscience Training at <img height="2em" width="auto" src="https://github.com/Jehjay/images-to-				3D/blob/master/CBU.jpeg" alt="Copperbelt University" title="Copperbelt University"></li>
+	<li><b> March 2012 to September 2016 </b> : Bioscience Training at <img height="auto" width="auto" src="https://github.com/Jehjay/images-to-				3D/blob/master/CBU.jpeg" alt="Copperbelt University" title="Copperbelt University"></li>
   </ul>
   </p>
 
@@ -51,9 +51,9 @@ I am conscientious, organised, and articulate, with vast experience working in a
 <p style="text-align:justify">	
 	<h2> Education </h2>
 	<ul>
-	<li> Master of Science in Information Systems - <i> Kobe Institute of Computing </i><img height="2em" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of Computing"></li>
-	<li> Post Graduate Diploma in Applied Data Science - <i> Emeritus Institute of Management <img height="2em" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Emeritus_Institute_of_Management.png" alt="Emeritus Institute of Management" title="Emeritus Institute of Management"> with Columbia Engineering Executive Education </i><img height="2em" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Columbia_Engineering_Executive_Education.png" alt="Columbia Engineering Executive Education" title="Columbia Engineering Executive Education"></li>
-	<li> Certificate in Geographical Information Systems GIS and Remote sensing RS - <i> Japan Space Systems </i><img height="2em" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/JSS.jpeg" alt="Japan Space Systems" title="Japan Space Systems"></li>
+	<li> Master of Science in Information Systems - <i> Kobe Institute of Computing </i><img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of Computing"></li>
+	<li> Post Graduate Diploma in Applied Data Science - <i> Emeritus Institute of Management <img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Emeritus_Institute_of_Management.png" alt="Emeritus Institute of Management" title="Emeritus Institute of Management"> with Columbia Engineering Executive Education </i><img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Columbia_Engineering_Executive_Education.png" alt="Columbia Engineering Executive Education" title="Columbia Engineering Executive Education"></li>
+	<li> Certificate in Geographical Information Systems GIS and Remote sensing RS - <i> Japan Space Systems </i><img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/JSS.jpeg" alt="Japan Space Systems" title="Japan Space Systems"></li>
 	</ul>
 </div>
 </p>
