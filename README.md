@@ -81,6 +81,9 @@ scrolling="0" width="170" height="30" title="GitHub">
 START_SECTION:activity
 END_SECTION:activity
 
+---
+[![](https://visitcount.itsvg.in/api?id=alushaks&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!--
 **Jehjay/Jehjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
