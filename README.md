@@ -1,11 +1,11 @@
 ## Jehoram Mwila
 <br/>
 
-<a href="https://www.linkedin.com/in/jehoram-m-1b1772124" target="_blank"><img align="left" height="auto" width="auto" scr="https://github.com/Jehjay/images-to-3D/blob/master/LinkedIn.png" alt="Jehoram Mwila | LinkedIn" title="Jehoram Mwila | LinkedIn"></a>
-<a href="https://www.researchgate.net/profile/Jehoram-Mwila" target="_blank"><img align="left" height="auto" width="auto" scr="https://github.com/Jehjay/images-to-3D/blob/master/ResearchGate.png" alt="Jehoram Mwila | Researchgate" title="Jehoram Mwila | ResearchGate"></a>
-<a href="https://medium.com/mwilajehoram" target="_blank"><img align="left" height="auto" width="auto" scr="https://github.com/Jehjay/images-to-3D/blob/master/Medium.png" alt="Jehoram Mwila | Medium" title="Jehoram Mwila | Medium"></a>
-<a href="https://independent.academia.edu/JehoramM" target="_blank"><img align="left" height="auto" width="auto" scr="https://github.com/Jehjay/images-to-3D/blob/master/Academia.png" alt="Jehoram Mwila | Academia" title="Jehoram Mwila | Academia Edu"></a>
-<a href="https://X.com/JehoramMwila" target="_blank"><img align="left" height="40x" width="auto" scr="https://github.com/Jehjay/images-to-3D/blob/master/X.png" alt="Jehoram Mwila | X" title="Jehoram Mwila | X"></a><br/>
+<a href="https://www.linkedin.com/in/jehoram-m-1b1772124" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/LinkedIn.png" alt="Jehoram Mwila | LinkedIn" title="Jehoram Mwila | LinkedIn"></a>
+<a href="https://www.researchgate.net/profile/Jehoram-Mwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/ResearchGate.png" alt="Jehoram Mwila | Researchgate" title="Jehoram Mwila | ResearchGate"></a>
+<a href="https://medium.com/mwilajehoram" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Medium.png" alt="Jehoram Mwila | Medium" title="Jehoram Mwila | Medium"></a>
+<a href="https://independent.academia.edu/JehoramM" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Academia.png" alt="Jehoram Mwila | Academia" title="Jehoram Mwila | Academia Edu"></a>
+<a href="https://X.com/JehoramMwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/X.png" alt="Jehoram Mwila | X" title="Jehoram Mwila | X"></a><br/>
 
 <h2> Profile </h2>
 I am conscientious, organised, and articulate, with vast experience working in a multidisciplinary environment while holding several responsibilities concurrently.<br>
@@ -29,7 +29,7 @@ I am conscientious, organised, and articulate, with vast experience working in a
 	<li><b> June 2019 to March 2020 </b> : Data Science Instructor at Scribble Osaka Lab <a href="https://www.inno.go.jp/network/2020/all/22/" target="_blank"><img 	height="40px" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Scribble_Osaka_Lab.jpeg" alt="Scribble Osaka Lab" title="Scribble Osaka Lab"></a></li>
 	<li><b> October 2017 to September 2019 </b> : Researcher, MSc. Information Systems in Hiraishi Lab at <a href="https://www.kic.ac.jp/eng/" target="_blank"><img 	height="40px" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of 			Computing"></a><br>
 	<strong> Research Topic </strong>: <em> e-commerce, chatbot, recommender systems, 3D, Augmented Virtuality. </em></br></li>
-	<li><b> March 2012 to September 2016 </b> : Bioscience Training at <img height="auto" width="auto" src="https://github.com/Jehjay/images-to-				3D/blob/master/CBU.jpeg" alt="Copperbelt University" title="Copperbelt University"></li>
+	<li><b> March 2012 to September 2016 </b> : Bioscience Training at <img src="https://github.com/Jehjay/images-to-				3D/blob/master/CBU.jpeg" alt="Copperbelt University" title="Copperbelt University"></li>
   </ul>
   </p>
 
@@ -58,20 +58,20 @@ I am conscientious, organised, and articulate, with vast experience working in a
 </div>
 </p>
 
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jehjay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jehjay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jehjay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+# 📊 My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jehjay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **Jehjay/Jehjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
