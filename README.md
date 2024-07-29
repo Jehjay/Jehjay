@@ -1,11 +1,11 @@
 ## Jehoram Mwila
 <br/>
 
-<a href="https://www.linkedin.com/in/jehoram-m-1b1772124"><img align="left" alt="Jehoram Mwila | LinkedIn" width="22px" scr=""/></a>
-<a href="https://www.researchgate.net/profile/Jehoram-Mwila"><img align="left" alt="Jehoram Mwila | Researchgate" width="22px" scr=""/></a>
-<a href="https://medium.com/mwilajehoram"><img align="left" alt="Jehoram Mwila | Medium" width="22px" scr=""/></a>
-<a href="https://independent.academia.edu/JehoramM"><img align="left" alt="Jehoram Mwila | Academia" width="22px" scr=""/></a>
-<a href="https://X.com/JehoramMwila"><img align="left" alt="Jehoram Mwila | X" width="22px" scr=""/></a><br/>
+<a href="https://www.linkedin.com/in/jehoram-m-1b1772124"><img align="left" alt="Jehoram Mwila | LinkedIn" width="22px" scr=""https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://www.researchgate.net/profile/Jehoram-Mwila"><img align="left" alt="Jehoram Mwila | Researchgate" width="22px" scr="https://www.svgrepo.com/svg/31454/researchgate"/></a>
+<a href="https://medium.com/mwilajehoram"><img align="left" alt="Jehoram Mwila | Medium" width="22px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
+<a href="https://independent.academia.edu/JehoramM"><img align="left" alt="Jehoram Mwila | Academia" width="22px" scr="https://a.academia-assets.com/images/academia-logo-2021.svg"/></a>
+<a href="https://X.com/JehoramMwila"><img align="left" alt="Jehoram Mwila | X" width="22px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a><br/>
 
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
