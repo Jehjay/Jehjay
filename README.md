@@ -53,7 +53,7 @@ I am conscientious, organised, and articulate, with vast experience working in a
 	<ul>
 	<li> Master of Science in Information Systems - <i> Kobe Institute of Computing </i><img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of Computing"></li>
 	<li> Post Graduate Diploma in Applied Data Science - <i> Emeritus Institute of Management <img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Emeritus_Institute_of_Management.png" alt="Emeritus Institute of Management" title="Emeritus Institute of Management"> with Columbia Engineering Executive Education </i><img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/Columbia_Engineering_Executive_Education.png" alt="Columbia Engineering Executive Education" title="Columbia Engineering Executive Education"></li>
-	<li> Certificate in Geographical Information Systems GIS and Remote sensing RS - <i> Japan Space Systems </i><img height="auto" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/JSS.jpeg" alt="Japan Space Systems" title="Japan Space Systems"></li>
+	<li> Certificate in Geographical Information Systems GIS and Remote sensing RS - <i> Japan Space Systems </i><img height="22px" width="auto" src="https://github.com/Jehjay/images-to-3D/blob/master/JSS.jpeg" alt="Japan Space Systems" title="Japan Space Systems"></li>
 	</ul>
 </div>
 </p>
