@@ -63,10 +63,10 @@ I am conscientious, organised, and articulate, with vast experience working in a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<h2> 🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Jehjay&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2> 📊 My GitHub Stats</h2>
+# 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jehjay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehjay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
