@@ -78,6 +78,9 @@ src="https://ghbtns.com/github-btn.html?user=Jehjay&Jehjay=bootstrap&type=star&c
 scrolling="0" width="170" height="30" title="GitHub">
 </iframe> -->
 
+START_SECTION:activity
+END_SECTION:activity
+
 <!--
 **Jehjay/Jehjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
