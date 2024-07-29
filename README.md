@@ -1,11 +1,11 @@
-## Jehoram Mwila
+## Jehoram
 <br/>
 
-<a href="https://www.linkedin.com/in/jehoram-m-1b1772124" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/LinkedIn.png" alt="Jehoram Mwila | LinkedIn" title="Jehoram Mwila | LinkedIn"></a>
-<a href="https://www.researchgate.net/profile/Jehoram-Mwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/ResearchGate.png" alt="Jehoram Mwila | Researchgate" title="Jehoram Mwila | ResearchGate"></a>
-<a href="https://medium.com/mwilajehoram" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Medium.png" alt="Jehoram Mwila | Medium" title="Jehoram Mwila | Medium"></a>
+<a href="https://www.linkedin.com/in/jehoram-m-1b1772124" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/LinkedIn.png" alt="Jehoram | LinkedIn" title="Jehoram | LinkedIn"></a>
+<a href="https://www.researchgate.net/profile/Jehoram-Mwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/ResearchGate.png" alt="Jehoram | Researchgate" title="Jehoram | ResearchGate"></a>
+<a href="https://medium.com/mwilajehoram" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Medium.png" alt="Jehoram | Medium" title="Jehoram | Medium"></a>
 <a href="https://independent.academia.edu/JehoramM" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/Academia.png" alt="Jehoram Mwila | Academia" title="Jehoram Mwila | Academia Edu"></a>
-<a href="https://X.com/JehoramMwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/X.png" alt="Jehoram Mwila | X" title="Jehoram Mwila | X"></a>
+<a href="https://X.com/JehoramMwila" target="_blank"><img align="left" scr="https://github.com/Jehjay/images-to-3D/blob/master/X.png" alt="Jehoram | X" title="Jehoram | X"></a>
 
 <br/>
 
@@ -17,7 +17,7 @@ I am conscientious, organised, and articulate, with vast experience working in a
 <h2> Summary </h2>		
 <ul>
 <li> Machine Learning and Business Intelligence Solution Architect. </li>
-<li> Full stack Developer. </li>
+<li> Full Stack Developer. </li>
 <li> Experience in computer networking operations, information security risk management and business continuity planning. </li>
 <li> Experience in research and report writing, excellent oral and written communication. </li>
 		</ul>
