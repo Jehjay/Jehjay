@@ -1,7 +1,7 @@
 ## Jehoram Mwila
 <br/>
 
-<a href="https://www.linkedin.com/in/jehoram-m-1b1772124"><img align="left" alt="Jehoram Mwila | LinkedIn" width="22px" scr=""https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/jehoram-m-1b1772124"><img align="left" alt="Jehoram Mwila | LinkedIn" width="22px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 <a href="https://www.researchgate.net/profile/Jehoram-Mwila"><img align="left" alt="Jehoram Mwila | Researchgate" width="22px" scr="https://www.svgrepo.com/svg/31454/researchgate"/></a>
 <a href="https://medium.com/mwilajehoram"><img align="left" alt="Jehoram Mwila | Medium" width="22px" scr="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/></a>
 <a href="https://independent.academia.edu/JehoramM"><img align="left" alt="Jehoram Mwila | Academia" width="22px" scr="https://a.academia-assets.com/images/academia-logo-2021.svg"/></a>
