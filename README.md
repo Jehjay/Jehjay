@@ -17,6 +17,7 @@
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -47,28 +48,28 @@ I am conscientious, organised, and articulate, with vast experience working in a
   </p>
 
 <p style="text-align:justify">
-		<h2> Technical Skills </h2>
-		<ul>
-		<li> Professional technical consultancy services and ethical technology solutions implementation. </li>
-		<li> Architecture plus feature Design, Database design and management. </li>
-		<li> Developing APIs, Web applications, embedded systems (IoT), GIS and RS applications. </li>
-		<li> Computer networking, operations and security. </li>
-		<li> Information Security Risk Management. </li>
-		<li><dfn><abbr title="Developement and Operations">DevOps</abbr></dfn> - System Development Life Cycle (SDLC) Project Management. </li>
-		<li><dfn><abbr title="Machine Learning Operations">MLOps</abbr></dfn> MLOps - Business Intelligence, Data Science and Data visualisation solutions implementation. </li>
-		<li> Researching and keeping up-to-date with developing trends in digital transformation. </li>
-		<li> Strategic business development planning and management. </li>
-		</ul>
-		</p>
+	<h2> Technical Skills </h2>
+	<ul>
+	<li> Professional technical consultancy services and ethical technology solutions implementation. </li>
+	<li> Architecture plus feature Design, Database design and management. </li>
+	<li> Developing APIs, Web applications, embedded systems (IoT), GIS and RS applications. </li>
+	<li> Computer networking, operations and security. </li>
+	<li> Information Security Risk Management. </li>
+	<li><dfn><abbr title="Developement and Operations">DevOps</abbr></dfn> - System Development Life Cycle (SDLC) Project Management. </li>
+	<li><dfn><abbr title="Machine Learning Operations">MLOps</abbr></dfn> MLOps - Business Intelligence, Data Science and Data visualisation solutions implementation. </li>
+	<li> Researching and keeping up-to-date with developing trends in digital transformation. </li>
+	<li> Strategic business development planning and management. </li>
+	</ul>
+</p>
 
 <p style="text-align:justify">	
-		<h2> Education </h2>
-		<ul>
-		<li> Master of Science in Information Systems - <i> Kobe Institute of Computing </i><img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of Computing"></li>
-		<li> Post Graduate Diploma in Applied Data Science - <i> Emeritus Institute of Management <img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/Emeritus_Institute_of_Management.png" alt="Emeritus Institute of Management" title="Emeritus Institute of Management"> with Columbia Engineering Executive Education </i><img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/Columbia_Engineering_Executive_Education.png" alt="Columbia Engineering Executive Education" title="Columbia Engineering Executive Education"></li>
-		<li> Certificate in Geographical Information Systems GIS and Remote sensing RS - <i> Japan Space Systems </i><img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/JSS.jpeg" alt="Japan Space Systems" title="Japan Space Systems"></li>
-		</ul>
-		</p>
+	<h2> Education </h2>
+	<ul>
+	<li> Master of Science in Information Systems - <i> Kobe Institute of Computing </i><img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/KIC.png" alt="Kobe Institute of Computing" title="Kobe Institute of Computing"></li>
+	<li> Post Graduate Diploma in Applied Data Science - <i> Emeritus Institute of Management <img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/Emeritus_Institute_of_Management.png" alt="Emeritus Institute of Management" title="Emeritus Institute of Management"> with Columbia Engineering Executive Education </i><img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/Columbia_Engineering_Executive_Education.png" alt="Columbia Engineering Executive Education" title="Columbia Engineering Executive Education"></li>
+	<li> Certificate in Geographical Information Systems GIS and Remote sensing RS - <i> Japan Space Systems </i><img src="/home/jehoram/Desktop/LETS_MAKE_CODE_FUN/REVISION/WEB_DEVELOPMENT/images/JSS.jpeg" alt="Japan Space Systems" title="Japan Space Systems"></li>
+	</ul>
+</p>
 <!--
 **Jehjay/Jehjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
