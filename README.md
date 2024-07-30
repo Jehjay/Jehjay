@@ -41,7 +41,7 @@ I am conscientious, organised, and articulate, with vast experience working in a
 	<li> Computer networking, operations and security. </li>
 	<li> Information Security Risk Management. </li>
 	<li><dfn><abbr title="Developement and Operations">DevOps</abbr></dfn> - System Development Life Cycle (SDLC) Project Management. </li>
-	<li><dfn><abbr title="Machine Learning Operations">MLOps</abbr></dfn> MLOps - Business Intelligence, Data Science and Data visualisation solutions implementation. </li>
+	<li><dfn><abbr title="Machine Learning Operations">MLOps</abbr></dfn> - Business Intelligence, Data Science and Data visualisation solutions implementation. </li>
 	<li> Researching and keeping up-to-date with developing trends in digital transformation. </li>
 	<li> Strategic business development planning and management. </li>
 	</ul>
